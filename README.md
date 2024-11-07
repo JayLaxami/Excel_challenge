@@ -9,10 +9,9 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 **Instructions**
 
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
-
-
-    Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
-        Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
+    Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is     currently live.
+    Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.        
+        
 
     Use conditional formatting to fill each cell in the Percent Funded column according to a three-color scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
 
